@@ -28,7 +28,7 @@
 
 - 💼 [LinkedIn]([https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/shopifystore-development-customization/))
 - 📧 Email: baigasadullah4@gmail.com  
-- 🌐 Book Your Call: [Book Now!]([https://yourportfolio.com](https://calendly.com/asadullahbaig/speak-with-asad?month=2025-07)) *(optional)*
+- 🌐 Book Your Call: [Book Now!](https://calendly.com/asadullahbaig/speak-with-asad?month=2025-07)
 
 ---
 
