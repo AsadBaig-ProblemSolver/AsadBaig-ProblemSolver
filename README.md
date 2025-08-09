@@ -9,7 +9,12 @@
 - 🛒 Helped **100+ clients** across industries: Beauty, Fashion, Fitness, Electronics, and more  
 - 🔧 Expertise in **Liquid**, **JavaScript**, **HTML/CSS**, **GSAP animations**, and **Shopify APIs**  
 - 🤝 Worked with cross-functional teams from **UI/UX design to QA**  
-- 💡 Passionate about learning and keeping up with the latest in Shopify & frontend development
+- 💡 Passionate about learning and keeping up with the latest in Shopify & frontend development  
+
+---
+
+🎓 **Certifications**  
+[![Shopify Development Fundamentals](https://img.shields.io/badge/Shopify%20Development%20Fundamentals-Verified%20Skill%20Badge-7F187F?style=for-the-badge&logo=shopify&logoColor=white)](https://www.credly.com/badges/62a6d0c2-5240-41ea-b492-982ba7003bbe/public_url)
 
 ---
 
@@ -20,15 +25,15 @@
 - Feature integration & bug fixing  
 - Custom sections, upsell add-ons, and metafields  
 - Migration from other platforms to Shopify  
-- Long-term technical support
+- Long-term technical support  
 
 ---
 
 📫 **Let’s Connect!**
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/shopifystore-development-customization/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/shopifystore-development-customization/)  
 - 📧 Email: baigasadullah4@gmail.com  
-- 🌐 Book Your Call: [Book Now!](https://calendly.com/asadullahbaig/speak-with-asad?month=2025-07)
+- 🌐 Book Your Call: [Book Now!](https://calendly.com/asadullahbaig/speak-with-asad?month=2025-07)  
 
 ---
 
@@ -44,5 +49,5 @@
 
 📊 **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsadBaig-ProblemSolver&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsadBaig-ProblemSolver&show_icons=true&theme=default)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsadBaig-ProblemSolver&layout=compact&theme=default)
